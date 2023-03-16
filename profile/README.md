@@ -1,5 +1,11 @@
 ## Hi there 👋
+We are a team of developers and gamers trying to make the greatest software.
 
+OpenNoteBlockStudio VR
+{insert picture here :)}
+
+feel free to make a github issue or fork our githubs to make your own changes or to add something. 
+just be reasonable about the issues and pull requests oki :)
 <!--
 
 **Here are some ideas to get you started:**
