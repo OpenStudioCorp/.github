@@ -4,6 +4,9 @@ We are a team of developers and gamers trying to make the greatest software.
 OpenNoteBlockStudio VR
 {insert picture here :)}
 
+PythonicOS!
+The first Operating system built on C and its related launguages with Python being the Main programming launguage that you can use with coding!
+
 feel free to make a github issue or fork our githubs to make your own changes or to add something. 
 just be reasonable about the issues and pull requests oki :)
 <!--
