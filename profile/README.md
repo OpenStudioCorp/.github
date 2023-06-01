@@ -1,21 +1,15 @@
-## Hi there 👋
-We are a team of developers and gamers trying to make the greatest software.
+<div id=“header” align=“center”> <img src=“https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif” width=“100”/> <h1>OpenStudio</h1> <p>We are a team of passionate developers and creators who love to make awesome and immersive software for everyone.</p> </div>
 
-OpenNoteBlockStudio VR
-{insert picture here :)}
+🚀 Our Projects
+PythonicOS: A desktop operating system based on Python that lets you run any Python script or app with ease and speed.
+OpenNoteBlockStudioVR: A VR music creation app that lets you compose and play songs using virtual note blocks in a 3D environment.
+🙌 How to Contribute
+We welcome any contributions to our projects, whether it’s code, design, documentation, or feedback. You can check out our contribution guidelines for more details on how to get started.
 
-PythonicOS!
-The first Operating system built on C and its related launguages with Python being the Main programming launguage that you can use with coding!
+💬 Contact Us
+If you have any questions, suggestions, or just want to say hi, you can reach us on:
 
-feel free to make a github issue or fork our githubs to make your own changes or to add something. 
-just be reasonable about the issues and pull requests oki :)
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Twitter
+Discord
+Email
+We’d love to hear from you!
