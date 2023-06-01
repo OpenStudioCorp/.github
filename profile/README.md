@@ -1,4 +1,5 @@
-<div id=“header” align=“center”> <img src=“https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif” width=“100”/> <h1>OpenStudio</h1> <p>We are a team of passionate developers and creators who love to make awesome and immersive software for everyone.</p> </div>
+<div id=“header” align=“center”> <img src=“https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif” width=“100”/> <h1>OpenStudio</h1> 
+<p>We are a team of passionate developers and creators who love to make awesome and immersive software for everyone.</p> </div>
 
 🚀 Our Projects
 PythonicOS: A desktop operating system based on Python that lets you run any Python script or app with ease and speed.
