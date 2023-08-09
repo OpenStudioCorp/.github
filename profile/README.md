@@ -17,21 +17,20 @@ If you have any questions, suggestions, or just want to say hi, you can reach us
 
 👑Team members
 here are our team members we currently have at OpenStudio
----
-KxCobra--[just the office cat]
-AlanVR--[everything? also saves with pilk]
-arif--[c# coder and a intel a750]
-beatzoid--[lead github maintainer?]
-erni--[c# coder]
-Exedice--[web dev but i cant spell his name correctly]
-h4rl--[crab coder]
-KiyoKiyotaka--[web dev]
-Samuel Venable--[scary launguage support]
-Sourena--[web dev!]
-Syembol--[lead pixel art creator]
-TheBugCoder--[lead of web development]
-Valgari--[lead staff]
----
+
+KxCobra--{just the office cat}
+AlanVR--{everything? also saves with pilk}
+arif--{c# coder and a intel a750}
+beatzoid--{lead github maintainer?}
+erni--{c# coder}
+Exedice--{web dev but i cant spell his name correctly}
+h4rl--{crab coder}
+KiyoKiyotaka--{web dev}
+Samuel Venable--{scary launguage support}
+Sourena--{web dev!}
+Syembol--{lead pixel art creator}
+TheBugCoder--{lead of web development}
+Valgari--{lead staff}
 
 
 Discord https://discord.gg/7cFCB8qBkf
