@@ -13,7 +13,7 @@
 We welcome any contributions to our projects, whether it’s code, design, documentation, or feedback. You can check out our contribution guidelines for more details on how to get started.
 
 💬 Contact Us
-If you have any questions, suggestions, or just want to say hi, you can reach us on:
+If you have any questions, suggestions, or just want to say hi, you can reach us on: discord at https://discord.gg/7cFCB8qBkf 
 
 👑Team members
 here are our team members we currently have at OpenStudio
